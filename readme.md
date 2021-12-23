@@ -1,1 +1,4 @@
-git
+git init
+git status
+
+
